@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my biodata</title>
+</head>
+<body>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <img src="C:\Users\Sahup/Downloads\prachi.jpg" >
+
+    <table>
+        <tr>
+        <th>NAME</th>
+        <td>prachi behera</td>
+    </tr>
+    <tr>
+        <th>MOBILE</th>
+        <td>7205893430</td>
+    </tr>
+        <tr>
+        <th>EMAIL ID</th>
+        <td>beheraprachi75@gmail.com</td>
+    </tr>
+        <tr>
+        <th>FATHER'S NAME</th>
+        <td>Maheswar Behera</td>
+    </tr>
+        <tr>
+        <th>MOTHERS'S NAME</th>
+        <td>Dipti Rani Behera</td></tr>
+        <tr>
+
+        <th>GENDER</th><td>female</td>
+    </tr>
+        <tr>
+        <th>DATE OF BIRTH</th><td>07/07/2001</td>
+    </tr>
+        <tr>
+        <th>LANGUAGES KNOWN</th><td>python,java,Html,css</td>
+    </tr>
+    
+        
+        
+        
+    
+    
+        
+        
+        
+        
+    </table>
+    <br>
+    <strong>QUALIFICATION</strong>
+        <table>
+            <tr>
+        
+            
+            <th>Institute Name</th>
+            
+            <th>year of passing</th>
+            <th>marks percentage</th>
+            <th>link</th>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <th>school</th>
+                <td>nayana kumari high school</td>
+                <td>2017</td>
+                <td>88</td>
+                <td><a href=""></a></td>
+            </tr>
+            <br>
+
+            <tr>
+                <th>Intermediate</th>
+                <td>Fakir Mohan Higher Secondary School</td>
+                <td>2019</td>
+                <td>78</td>
+                <td>
+                    <a href="https:\\g.co/kgs/dqC37e">fm college</a>
+                </td>
+            </tr>
+
+            <tr>
+                <th>degree</th>
+                <td>Indira Gandhi Institute Of Technology</td>
+                <td>2024</td>
+                <td></td>
+                <td>
+                    <a href="https://igitsarang.ac.in">igit</a>
+
+                </td>
+            </tr>
+        
+        </table>
+
+        
+    
+</body>
+</html>
